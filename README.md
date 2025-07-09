@@ -3,5 +3,7 @@ This is a beginner-level project created using only HTML as part of my learning 
 
 https://github.com/jalal-mr/sample
 
-screenshot:<img width="497" alt="screenshot png" src="https://github.com/user-attachments/assets/56c4adb8-ea02-408c-b0e7-216242406e9b" />
+screenshot:
+
+<img width="497" alt="screenshot png" src="https://github.com/user-attachments/assets/56c4adb8-ea02-408c-b0e7-216242406e9b" />
 
